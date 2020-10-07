@@ -1,6 +1,10 @@
 # Сенат.Стажировка.Школа21.Поток4
 
 ## Roadmap
+
+[Video](https://channel9.msdn.com/Series/CSharp-101/What-is-C)
+[C# Hello World and much more](https://docs.microsoft.com/ru-ru/dotnet/csharp/tutorials/intro-to-csharp/hello-world?tutorial-step=1)
+
 ## Program
 
 [books](https://drive.google.com/drive/folders/1Zs8mvvOxQFMhsrnUFYeuhIEP8eskmeKB?usp=sharing)
