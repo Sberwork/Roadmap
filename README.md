@@ -16,8 +16,23 @@ Key people:
 
 Dmitriy Anishchenko
 
+-------------------
 
+# Галочки:
 
+http://programming-lang.com/ru/comp_programming/ekkel/0/j2.html
+
+https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/
+
+https://www.geeksforgeeks.org/association-composition-aggregation-java/
+
+https://metanit.com/sharp/patterns/
+
+Первоисточник:
+https://www.ozon.ru/context/detail/id/148946316
+
+Адаптированный под .NET, лично рекомендуемый вариант:
+https://www.ozon.ru/context/detail/id/31789305/
 
 --------------------------------
 ```
