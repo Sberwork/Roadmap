@@ -20,6 +20,8 @@ Dmitriy Anishchenko
 
 # Галочки:
 
+## Основы ООП
+
 http://programming-lang.com/ru/comp_programming/ekkel/0/j2.html
 
 https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/
@@ -33,6 +35,31 @@ https://www.ozon.ru/context/detail/id/148946316
 
 Адаптированный под .NET, лично рекомендуемый вариант:
 https://www.ozon.ru/context/detail/id/31789305/
+
+
+
+----------------------
+## Основы C#
+
+http://sergeyteplyakov.blogspot.com/2014/04/best-books-on-cnet.html
+
+Для личных нужд можно Community версию:
+https://visualstudio.microsoft.com/ru/downloads/?rr=https%3A%2F%2Fwww.google.com%2F
+
+https://metanit.com/sharp/tutorial/
+
+https://professorweb.ru/my/csharp/charp_theory/level1/index.php
+
+https://metanit.com/sharp/algoritm/
+
+Отдельно для многопоточности, очень классный раздел:
+http://www.albahari.com/threading/
+
+Отдельно по алгоритмам:
+https://metanit.com/sharp/algoritm/
+
+Про асинхронность:
+https://blogs.msdn.microsoft.com/ruericlippert/2010/12/16/c-5-4-10/
 
 --------------------------------
 ```
