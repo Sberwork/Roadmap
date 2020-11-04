@@ -36,7 +36,8 @@ https://www.ozon.ru/context/detail/id/148946316
 Адаптированный под .NET, лично рекомендуемый вариант:
 https://www.ozon.ru/context/detail/id/31789305/
 
-
+## Паттерны
+https://github.com/anupavanm/csharp-design-patterns-for-humans
 
 ----------------------
 ## Основы C#
